@@ -2,8 +2,8 @@
 <div align="right">
   <p align="left">Em êxtase pelo processo de tornar ideias em matéria por meio da programação.</p>
   <a href="mailto:contateMateusLazarus@gmail.com">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=swarmfireone&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Total de contribuições"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarmfireone&layout=compact&langs_count=7&hide=hack&theme=merko" alt="Gráfico de linguagens mais usadas"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=swarmfireone&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Total de contribuições"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarmfireone&layout=compact&langs_count=7&hide=hack&theme=merko" alt="Gráfico de linguagens mais usadas"/>
   </a>
 </div>
 <div display:"inline-block" align="left" style="height:90px;">
