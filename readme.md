@@ -26,6 +26,7 @@
   <br><a href="mailto:contateMateusLazarus@gmail.com">- 📫 Reach me</a>
 </div>
 
+<!--- Isso foi implementado dia 01/01/2022 -->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -36,7 +37,3 @@
   <br><a href="mailto:contateMateusLazarus@gmail.com" title="Gmail">Gmail  <img alt="Gmail-icon" width="30"
   src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>
 </div>
-
-
-
-
