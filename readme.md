@@ -24,7 +24,9 @@
 <div align="left">
   <br><br>Tem um projeto em que eu possa ajudar? Me contate, vai ser incrível!
   <br><a href="mailto:contateMateusLazarus@gmail.com">- 📫 Reach me</a>
+  <br><br><br>
 </div>
+
 
 <!--- Isso foi implementado dia 01/01/2022 -->
 <!--START_SECTION:waka-->
@@ -32,6 +34,7 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
 
 <div align="right">
   <br><a href="https://www.linkedin.com/in/mateus-lazarus/" title="LinkedIn Profile">LinkedIn  <img alt="LinkedIn-icon" width="30"
