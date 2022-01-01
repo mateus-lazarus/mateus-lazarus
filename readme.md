@@ -28,7 +28,9 @@
 
 <!--- Isso foi implementado dia 01/01/2022 -->
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <div align="right">
