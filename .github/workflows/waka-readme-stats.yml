@@ -4,18 +4,18 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
-    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: swarmfireone/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: false
           COMMIT_MESSAGE: "R2D2... Loading..."
-          SHOW_TITLE: "True"
+          SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
