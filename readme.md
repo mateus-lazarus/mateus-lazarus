@@ -14,11 +14,21 @@
   <a href="mailto:contateMateusLazarus@gmail.com">
     <img src="https://cdn.discordapp.com/attachments/824787424999505960/926666853718323260/maring-left.png" width=120/>
   </a>
-  <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=65 margin-left:90/>
-  <img alt="Laravel icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width=65/>
+  <img alt="Laravel icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width=65 margin-left:90/>
   <img alt="Php icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=65/>
+  
+  
+  <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=65/>
+  
+  
+  <img alt="Mysql icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width=65/>
+  <img alt="Doctrine icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original-wordmark.svg" width=65/>
+  
+  
   <img alt="Html icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=65/>
   <img alt="Css icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=65/>
+  
+  <img alt="Bootstrap icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width=65/>
 </div>
 
 <div align="left">
