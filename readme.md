@@ -6,7 +6,7 @@
 #### Principais Projetos Atualmente :
 #### &emsp;&emsp;📚 <a href="https://github.com/swarmfireone/Projeto_WebScraping_Steam">Automação Web com Selenium</a>
 #### &emsp;&emsp;📚 <a href="https://github.com/swarmfireone/MinisProjetos/tree/main/ProvasDeBackend/DevMedia/Prova1">Site de Notícias</a>
-#### &emsp;&emsp;📚 <a href="https://github.com/swarmfireone/Estudos_em_Php">Uma pasta de estudos da Alura que tento manter em dia</a>
+#### &emsp;&emsp;📚 <a href="https://github.com/swarmfireone/Pasta_de_estudos">Uma pasta de estudos da Alura que tento manter em dia</a>
 
 <br><br><br>
 ## 📊 My Github Stats
