@@ -21,6 +21,8 @@
   <img alt="Laravel icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width=65 margin-left:90/>
   <img alt="Php icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=65/>
   
+  <img alt="CSharp icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=65/>
+  <img alt="DotNet Core icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width=65/>
   
   <img alt="Python icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=65/>
   
