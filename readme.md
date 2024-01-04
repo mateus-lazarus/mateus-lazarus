@@ -1,6 +1,6 @@
 
 ## I'm Mateus Lazarus,<br> A Software Engineer
-Hailing from São Paulo, Brazil, I boast over three years of experience in development, primarily specializing in backend operations. I am currently seeking opportunities in backend and full-stack roles, particularly those associated with high-scale or critical applications.
+Hailing from São Paulo, Brazil, I have over three years of experience in development, primarily specializing in backend operations. I am currently seeking opportunities in backend and full-stack roles, particularly those associated with high-scale or critical applications.
 
 #### For any help, feel free to contact me below!!
 
