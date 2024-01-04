@@ -4,7 +4,6 @@ Hailing from São Paulo, Brazil, I boast over three years of experience in devel
 
 #### For any help, feel free to contact me below!!
 
-<br>
 
 ## Learned Before Techs:
 - Laravel
@@ -32,9 +31,8 @@ Hailing from São Paulo, Brazil, I boast over three years of experience in devel
 - NodeJs
 
 <br>
-<br>
 
-## 📫 Contact Me
+## Contact Me 📫
 <div align="left">
   <br>
   <a href="https://www.linkedin.com/in/mateus-lazarus/" title="LinkedIn Profile">
