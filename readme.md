@@ -47,3 +47,5 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
     Gmail
   </a>
 </div>
+
+### While my heatmap may have been significantly impacted by commits to private repositories (non-disclosure agreements), I am committed to refocusing a bit more towards contributing to public repositories and bringing public more of my work
