@@ -40,6 +40,9 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
 Where I collaborated to assist others in learning English: 
 [Profile](https://www.englishexperts.com.br/forum/swarmfire-u315299.html)
 
+### My youtube channel
+[Youtube Channel](https://youtu.be/ipv4S_EVbuY)
+
 <br>
 
 ## Contact Me 📫
