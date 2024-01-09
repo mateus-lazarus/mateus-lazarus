@@ -32,6 +32,12 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
 
 <br>
 
+### My profile on Code Wars (similar to LeetCode)
+<img alt="CodeWars profile"
+  src="https://www.codewars.com/users/mateus-lazarus/badges/large">
+
+<br>
+
 ## Contact Me 📫
 <div align="left">
   <br>
