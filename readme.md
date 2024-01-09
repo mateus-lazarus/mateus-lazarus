@@ -36,6 +36,10 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
 <img alt="CodeWars profile"
   src="https://www.codewars.com/users/mateus-lazarus/badges/large">
 
+### My profile on English Experts Forum
+Where I collaborated to assist others in learning English: 
+[Profile](https://www.englishexperts.com.br/forum/swarmfire-u315299.html)
+
 <br>
 
 ## Contact Me 📫
