@@ -5,30 +5,27 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
 #### For any help, feel free to contact me below!!
 
 
-## Learned Before Techs:
-- Laravel
-- Php
+## I am acquainted with:
+- Laravel (PHP)
 - Python
 - Web Selenium
+- NodeJS (Javascript)
 
-## Working Techs:
-- CSharp
-- Dotnet 5 / 6 / 7 / 8
+## Tech I am working with:
+- Dotnet 5 / 6 / 7 / 8 (CSharp / C#)
 - MySQL
 - MongoDb / Atlas Mongo
-- New Relic (recently stopped)
-- Datadog
-- Grafana Loki
+- New Relic (Observability)
+- Datadog (Observability)
+- Grafana Loki (Observability)
 - Runscope (Functional Tests)
 - Azure Cloud
-- a little of Kubernetes and Open Lens
+- Kubernetes, KEDA, OpenLens, KubeCost (Infrastructure)
 - Terraform (Infra as Code)
 - Google Big Query (Datalake)
 
 ## Learning Techs:
-- Javascript
-- React
-- NodeJs
+- React (Javascript)
 
 <br>
 
