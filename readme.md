@@ -29,9 +29,12 @@ Hailing from São Paulo, Brazil, I have accumulated over three years of experien
 
 <br>
 
-### My profile on Code Wars (similar to LeetCode)
+### My profile on Code Wars
 <img alt="CodeWars profile"
   src="https://www.codewars.com/users/mateus-lazarus/badges/large">
+
+### My profile on Leetcode
+![LeetCode Stats](https://leetcard.jacoblin.cool/mateus-lazarus?theme=dark&font=Tiro%20Bangla)
 
 ### My profile on English Experts Forum
 Where I collaborated to assist others in learning English: 
@@ -44,7 +47,6 @@ Where I collaborated to assist others in learning English:
 
 ## Contact Me 📫
 <div align="left">
-  <br>
   <a href="https://www.linkedin.com/in/mateus-lazarus/" title="LinkedIn Profile">
     <img alt="LinkedIn-icon" width="35"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
@@ -58,4 +60,6 @@ Where I collaborated to assist others in learning English:
   </a>
 </div>
 
-### While my heatmap may have been significantly impacted by commits to private repositories (non-disclosure agreements), I am committed to refocusing a bit more towards contributing to public repositories and bringing public more of my work
+<br>
+
+While my heatmap may have been significantly impacted by commits to private repositories (non-disclosure agreements), I am committed to refocusing a bit more towards contributing to public repositories and bringing public more of my work
