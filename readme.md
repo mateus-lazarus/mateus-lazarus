@@ -1,31 +1,34 @@
 
 ## I'm Mateus Lazarus,<br> A Software Engineer
-Hailing from São Paulo, Brazil, I have accumulated over three years of experience in development, primarily specializing in backend operations. I am currently seeking opportunities in backend and full-stack roles, particularly those associated with high-scale or critical applications.
++5 years of experience solving problems with software and high engineering!
 
-#### For any help, feel free to contact me below!!
+Currently working on applications with a billion requests monthly, more than 95% of code coverage and uptime >99.95% and that's just a monday!
 
+Software engineering with experience in designing and creating cloud solutions for companies dealing with high demand and reliability needs. Proficient in coding best practices, design patterns, microservices environments, Domain-Driven Design (DDD), Behavior-Driven Design (BDD), DevOps concepts, Test-Driven Development (TDD), and monitoring, providing a significant advantage in delivering high-quality development work.
 
-## I am acquainted with:
-- Laravel (PHP)
-- Python
-- Web Selenium
-- NodeJS (Javascript)
 
 ## Tech I am working with:
-- Dotnet 5 / 6 / 7 / 8 (CSharp / C#)
-- MySQL
-- MongoDb / Atlas Mongo
-- New Relic (Observability)
-- Datadog (Observability)
-- Grafana Loki (Observability)
-- Runscope (Functional Tests)
-- Azure Cloud
-- Kubernetes, KEDA, OpenLens, KubeCost (Infrastructure)
-- Terraform (Infra as Code)
-- Google Big Query (Datalake)
+- Techs: C#, Javascript
+- Frameworks: .Net, NodeJs, ReactJs, Typescript
+- Test-Driven Design (TDD) & Behavior-Driven Design (BDD)
+- Domain-Driven Design (DDD)
+- DevOps knowledge
+- CI/CD (Github Actions, Azure Pipeline) and automated testing (RunScope, SpecFlow, Reqnroll)
+- Logging: Grafana Loki, Splunk
+- Data lake: Google BigQuery
+- Observability: New Relic, PingDom, Datadog
+- Infrastructure as Code (IaC): Terraform
+- Databases: MySQL, MongoDB, PostgresSQL
+- Azure Ecossystem
+- AWS Ecossystem
+- Kafka
 
 ## Learning Techs:
-- React (Javascript)
+- Nginx / Docker Swarm / Kubernetes / Cloudflare
+- NextJs
+- N8N / Make / Zapier / Stripe
+- RabbitMQ
+- AI over machine learning and prompt engineering with HuggingFace and ChatGpt/Gemini/Claude
 
 <br>
 
