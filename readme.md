@@ -32,13 +32,6 @@ Software engineering with experience in designing and creating cloud solutions f
 
 <br>
 
-### My profile on Code Wars
-<img alt="CodeWars profile"
-  src="https://www.codewars.com/users/mateus-lazarus/badges/large">
-
-### My profile on Leetcode
-![LeetCode Stats](https://leetcard.jacoblin.cool/mateus-lazarus?theme=dark&font=Tiro%20Bangla)
-
 ### My profile on English Experts Forum
 Where I collaborated to assist others in learning English: 
 [Profile](https://www.englishexperts.com.br/forum/swarmfire-u315299.html)
