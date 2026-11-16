@@ -9,7 +9,7 @@ delivery, metrics, and the boring parts that keep them running.
 Currently: co-founded the Reconciliation team inside Nubank's Global Platforms &
 Core Banking, working in an English-first async team across 4+ time zones.
 Before that: Stone, where I architected full-stack services handling
-**12B+ requests/year** at **99.95%+ uptime** and **>95% unit test coverage**.
+**12B+ requests/year** at **99.95%+ uptime** and **matured the platform from the first loan negotiated until it reaches 1 Billion BRL**.
 
 I care about the whole loop: pragmatic domain modelling, reliability under
 scrutiny, and using AI as real engineering leverage — not as a novelty.
@@ -27,11 +27,17 @@ scrutiny, and using AI as real engineering leverage — not as a novelty.
 ### Tech
 
 **Languages** — C#, TypeScript, JavaScript, Python, SQL
+<br>
 **Frameworks** — .NET, Node.js, React, Astro
+<br>
 **Data** — PostgreSQL, MySQL, MongoDB, Google BigQuery
+<br>
 **Platform** — Docker, Kubernetes, Terraform, Kafka, Azure, AWS, Cloudflare
+<br>
 **Observability** — Grafana, Loki, Splunk, Datadog, New Relic, Honeycomb
+<br>
 **Ways of working** — DDD, TDD/BDD, CI/CD (GitHub Actions, Azure Pipelines)
+<br>
 **AI** — LangGraph, MCP, RAG, Claude Code, OpenAI Codex, Hermes Agent
 
 ---
