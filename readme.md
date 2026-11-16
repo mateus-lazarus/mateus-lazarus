@@ -1,61 +1,48 @@
+# Mateus Lazarus
 
-## I'm Mateus Lazarus,<br> A Software Engineer
-+5 years of experience solving problems with software and high engineering!
+**Senior Full-Stack Product Engineer · I build AI-augmented engineering systems.**
 
-Currently working on applications with a billion requests monthly, more than 95% of code coverage and uptime >99.95% and that's just a monday!
+6+ years shipping high-scale software in highly regulated, high-stakes markets —
+owning initiatives end-to-end from domain discovery and architecture through
+delivery, metrics, and the boring parts that keep them running.
 
-Software engineering with experience in designing and creating cloud solutions for companies dealing with high demand and reliability needs. Proficient in coding best practices, design patterns, microservices environments, Domain-Driven Design (DDD), Behavior-Driven Design (BDD), DevOps concepts, Test-Driven Development (TDD), and monitoring, providing a significant advantage in delivering high-quality development work.
+Currently: co-founded the Reconciliation team inside Nubank's Global Platforms &
+Core Banking, working in an English-first async team across 4+ time zones.
+Before that: Stone, where I architected full-stack services handling
+**12B+ requests/year** at **99.95%+ uptime** and **>95% unit test coverage**.
 
+I care about the whole loop: pragmatic domain modelling, reliability under
+scrutiny, and using AI as real engineering leverage — not as a novelty.
 
-## Tech I am working with:
-- Techs: C#, Javascript
-- Frameworks: .Net, NodeJs, ReactJs, Typescript
-- Test-Driven Design (TDD) & Behavior-Driven Design (BDD)
-- Domain-Driven Design (DDD)
-- DevOps knowledge
-- CI/CD (Github Actions, Azure Pipeline) and automated testing (RunScope, SpecFlow, Reqnroll)
-- Logging: Grafana Loki, Splunk
-- Data lake: Google BigQuery
-- Observability: New Relic, PingDom, Datadog
-- Infrastructure as Code (IaC): Terraform
-- Databases: MySQL, MongoDB, PostgresSQL
-- Azure Ecossystem
-- AWS Ecossystem
-- Kafka
+---
 
-## Learning Techs:
-- Nginx / Docker Swarm / Kubernetes / Cloudflare
-- NextJs
-- N8N / Make / Zapier / Stripe
-- RabbitMQ
-- AI over machine learning and prompt engineering with HuggingFace and ChatGpt/Gemini/Claude
+### What I'm building toward
 
-<br>
+| Area | What it looks like |
+|---|---|
+| **Agentic systems** | Multi-agent workflows, MCP servers, structured knowledge pipelines |
+| **AI-augmented delivery** | Claude Code / Codex-driven development, spec-then-execute loops |
+| **Reliable platforms** | Distributed systems, reconciliation, observability, zero-drift ops |
 
-### My profile on English Experts Forum
-Where I collaborated to assist others in learning English: 
-[Profile](https://www.englishexperts.com.br/forum/swarmfire-u315299.html)
+### Tech
 
-### My youtube channel
-[Youtube Channel](https://youtu.be/ipv4S_EVbuY)
+**Languages** — C#, TypeScript, JavaScript, Python, SQL
+**Frameworks** — .NET, Node.js, React, Astro
+**Data** — PostgreSQL, MySQL, MongoDB, Google BigQuery
+**Platform** — Docker, Kubernetes, Terraform, Kafka, Azure, AWS, Cloudflare
+**Observability** — Grafana, Loki, Splunk, Datadog, New Relic, Honeycomb
+**Ways of working** — DDD, TDD/BDD, CI/CD (GitHub Actions, Azure Pipelines)
+**AI** — LangGraph, MCP, RAG, Claude Code, OpenAI Codex, Hermes Agent
 
-<br>
+---
 
-## Contact Me 📫
-<div align="left">
-  <a href="https://www.linkedin.com/in/mateus-lazarus/" title="LinkedIn Profile">
-    <img alt="LinkedIn-icon" width="35"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-    LinkedIn
-  </a>
-  <br>
-  <a href="mailto:contateMateusLazarus@gmail.com" title="Gmail">
-    <img alt="Gmail-icon" width="35"
-  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png">
-    Gmail
-  </a>
-</div>
+### Hire me / read me
 
-<br>
+- **ATS-ready CV** → [mateuslazarus.com.br/cv-ats.html](https://mateuslazarus.com.br/cv-ats.html) · [PDF](https://mateuslazarus.com.br/cv-ats.pdf)
+- **Interactive CV** → [mateuslazarus.com.br](https://mateuslazarus.com.br)
+- **For agents** → [llms.txt](https://mateuslazarus.com.br/llms.txt) · [resume.json](https://mateuslazarus.com.br/resume.json)
+- **LinkedIn** → [in/mateus-lazarus](https://www.linkedin.com/in/mateus-lazarus/)
+- **Email** → jobs@mateuslazarus.com
 
-While my heatmap may have been significantly impacted by commits to private repositories (non-disclosure agreements), I am committed to refocusing a bit more towards contributing to public repositories and bringing public more of my work
+<sub>My contribution graph understates volume: most of my work lives in private,
+NDA-bound repositories. Open source is catching up.</sub>
